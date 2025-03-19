@@ -104,6 +104,7 @@ public class PersonDAO {
             preparedStatement.setString(3, person.getEmail());
 
 
+
 //            Statement statement = connection.createStatement();
 //            String SQL = "INSERT INTO Person VALUES(" + 1 + ",'" + person.getName() +
 //                    "'," + person.getAge() + ",'" + person.getEmail() + "')";
